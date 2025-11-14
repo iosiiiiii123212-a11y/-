@@ -1,0 +1,47 @@
+{
+  "יוסף שלום": {
+    "password": "scrypt:32768:8:1$gbuiteZf1bUQfPJl$e651f3305578394110d29cda8f2654ce3240b2960c25f521abfa1efbb380180e9cf28cbf8f7242a2a39e04e7d9120bc08606ae51cf552d2c8f53d1778668b20b",
+    "phone": "",
+    "status": "Available",
+    "profile_pic": "👤",
+    "profile_color": "#e91e63",
+    "created_at": "2025-11-13T21:57:06.441429",
+    "followers": [
+      "מוישי"
+    ],
+    "blocked": false,
+    "following": [
+      "מנהל"
+    ]
+  },
+  "מוישי": {
+    "password": "scrypt:32768:8:1$6qVjL7QjyjTNE8AO$2eea0962dc364acb6dcce780fa6418b0dca4f25f1fec941176b5efffac5acbd26c218c3c83b90b43f1e5d99a1ae1503e497b898d8c7dd56d708ce6446d0bb254",
+    "phone": "0772010085",
+    "status": "Available",
+    "profile_pic": "👤",
+    "profile_color": "#673ab7",
+    "created_at": "2025-11-13T22:16:44.929320",
+    "followers": [],
+    "blocked": false,
+    "following": [
+      "יוסף שלום",
+      "מנהל"
+    ]
+  },
+  "מנהל": {
+    "password": "scrypt:32768:8:1$pfqOTcR1D88or0DH$6c1b8590372afe715dc4185223da2215110709d528c2c14fe38345edb9491df8f793dd8fc233c6abaefa29573a773ac0b52fa6cab1f21b64dd9cd260c2a72660",
+    "phone": "מנהל מערכת",
+    "status": "מנהל",
+    "profile_pic": "👑",
+    "profile_color": "#ff0000",
+    "created_at": "2025-11-13T22:48:18.231057",
+    "followers": [
+      "יוסף שלום",
+      "מוישי"
+    ],
+    "following": [],
+    "is_admin": true,
+    "blocked": false,
+    "blocked_ips": []
+  }
+}
